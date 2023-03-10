@@ -20,3 +20,6 @@ footer .pre-footer {
 footer .footer p {
   margin: 0;
 }
+footer .a:any-link {
+  rgb (255, 255, 255)
+}
