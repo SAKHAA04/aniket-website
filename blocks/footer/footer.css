@@ -22,4 +22,5 @@ footer .footer p {
 }
 footer .footer p a:any-link {
  color: #ffffff;
+ text-decoration: underline;
 }
